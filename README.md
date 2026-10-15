@@ -13,6 +13,12 @@
 Please Enter expression To Evaluate: 5 + 3
 5 + 3 = 8
 
+Please Enter expression To Evaluate: -5 - -4
+-5 - -4 = -1
+
+Please Enter expression To Evaluate: -5--4
+-5--4 = -9
+
 Please Enter expression To Evaluate: 10 % 3
 10 % 3 = 1
 

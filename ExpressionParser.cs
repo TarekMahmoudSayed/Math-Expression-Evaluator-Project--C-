@@ -7,7 +7,7 @@ using MathExpression;
 public class ExpressionParser
 {
 
-    static private string _MathSymbol = "+*/%^";
+    static private readonly string _mathSymbol = "+*/%^";
 
     static public MathExpression Parse (string input)
     {

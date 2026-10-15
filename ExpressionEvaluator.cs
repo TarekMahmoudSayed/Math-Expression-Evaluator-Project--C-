@@ -16,7 +16,7 @@ static public class App
 
         Console.WriteLine($"{input} = {_EvaluateExpression(exp)}");
     }
-    static private double _EvaluateExpression (MathExpression expression)
+    static private double EvaluateExpression (MathExpression expression)
     {
         switch (expression.Operation)
         {
